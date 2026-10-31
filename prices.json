@@ -1,0 +1,84 @@
+{
+  "updated_at": "2026-10-31T21:50:17+09:00",
+  "products": {
+    "pokemon151": {
+      "sources": {
+        "x": {
+          "price": null,
+          "count": 0,
+          "type": "buy_offer",
+          "samples": []
+        },
+        "mercari": {
+          "price": null,
+          "count": 0,
+          "type": "sold",
+          "samples": []
+        },
+        "snkrdunk": {
+          "price": null,
+          "count": 0,
+          "type": "sold",
+          "samples": []
+        }
+      },
+      "reference_average": null,
+      "source_count": 0,
+      "previous_average": null
+    },
+    "rocket_glory": {
+      "sources": {
+        "x": {
+          "price": null,
+          "count": 0,
+          "type": "buy_offer",
+          "samples": []
+        },
+        "mercari": {
+          "price": null,
+          "count": 0,
+          "type": "sold",
+          "samples": []
+        },
+        "snkrdunk": {
+          "price": null,
+          "count": 0,
+          "type": "sold",
+          "samples": []
+        }
+      },
+      "reference_average": null,
+      "source_count": 0,
+      "previous_average": null
+    },
+    "inferno_x": {
+      "sources": {
+        "x": {
+          "price": null,
+          "count": 0,
+          "type": "buy_offer",
+          "samples": []
+        },
+        "mercari": {
+          "price": null,
+          "count": 0,
+          "type": "sold",
+          "samples": []
+        },
+        "snkrdunk": {
+          "price": null,
+          "count": 0,
+          "type": "sold",
+          "samples": []
+        }
+      },
+      "reference_average": null,
+      "source_count": 0,
+      "previous_average": null
+    }
+  },
+  "warnings": [
+    "X API: token or seller accounts not configured"
+  ],
+  "method": "equal-weight mean of available source medians; X buy offers versus marketplace sold prices are different market types"
+}
