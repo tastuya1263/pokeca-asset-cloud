@@ -1,0 +1,17 @@
+[
+  {
+    "id": "pokemon151",
+    "name": "ポケモンカード151",
+    "aliases": ["151"]
+  },
+  {
+    "id": "rocket_glory",
+    "name": "ロケット団の栄光",
+    "aliases": []
+  },
+  {
+    "id": "inferno_x",
+    "name": "インフェルノX",
+    "aliases": []
+  }
+]
