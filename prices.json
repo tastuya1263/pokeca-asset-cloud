@@ -1,7 +1,8 @@
 {
-  "updated_at": "2026-10-31T21:50:17+09:00",
+  "updated_at": "2026-10-31T23:59:00+09:00",
+  "price_as_of": "2026-10-31",
   "products": {
-    "pokemon151": {
+    "box_001": {
       "sources": {
         "x": {
           "price": null,
@@ -22,11 +23,14 @@
           "samples": []
         }
       },
-      "reference_average": null,
-      "source_count": 0,
-      "previous_average": null
+      "reference_average": 59000,
+      "source_count": 1,
+      "previous_average": null,
+      "price_kind": "max_buyback_shrinkwrapped",
+      "source_url": "https://rakusetsu.com/pokemon-box-price/multishop/",
+      "price_as_of": "2026-10-31"
     },
-    "rocket_glory": {
+    "box_002": {
       "sources": {
         "x": {
           "price": null,
@@ -47,9 +51,236 @@
           "samples": []
         }
       },
-      "reference_average": null,
-      "source_count": 0,
-      "previous_average": null
+      "reference_average": 21500,
+      "source_count": 1,
+      "previous_average": null,
+      "price_kind": "max_buyback_shrinkwrapped",
+      "source_url": "https://rakusetsu.com/pokemon-box-price/multishop/",
+      "price_as_of": "2026-10-31"
+    },
+    "box_003": {
+      "sources": {
+        "x": {
+          "price": null,
+          "count": 0,
+          "type": "buy_offer",
+          "samples": []
+        },
+        "mercari": {
+          "price": null,
+          "count": 0,
+          "type": "sold",
+          "samples": []
+        },
+        "snkrdunk": {
+          "price": null,
+          "count": 0,
+          "type": "sold",
+          "samples": []
+        }
+      },
+      "reference_average": 54500,
+      "source_count": 1,
+      "previous_average": null,
+      "price_kind": "max_buyback_shrinkwrapped",
+      "source_url": "https://rakusetsu.com/pokemon-box-price/multishop/",
+      "price_as_of": "2026-10-31"
+    },
+    "box_004": {
+      "sources": {
+        "x": {
+          "price": null,
+          "count": 0,
+          "type": "buy_offer",
+          "samples": []
+        },
+        "mercari": {
+          "price": null,
+          "count": 0,
+          "type": "sold",
+          "samples": []
+        },
+        "snkrdunk": {
+          "price": null,
+          "count": 0,
+          "type": "sold",
+          "samples": []
+        }
+      },
+      "reference_average": 16000,
+      "source_count": 1,
+      "previous_average": null,
+      "price_kind": "max_buyback_shrinkwrapped",
+      "source_url": "https://rakusetsu.com/pokemon-box-price/multishop/",
+      "price_as_of": "2026-10-31"
+    },
+    "box_005": {
+      "sources": {
+        "x": {
+          "price": null,
+          "count": 0,
+          "type": "buy_offer",
+          "samples": []
+        },
+        "mercari": {
+          "price": null,
+          "count": 0,
+          "type": "sold",
+          "samples": []
+        },
+        "snkrdunk": {
+          "price": null,
+          "count": 0,
+          "type": "sold",
+          "samples": []
+        }
+      },
+      "reference_average": 12000,
+      "source_count": 1,
+      "previous_average": null,
+      "price_kind": "max_buyback_shrinkwrapped",
+      "source_url": "https://rakusetsu.com/pokemon-box-price/multishop/",
+      "price_as_of": "2026-10-31"
+    },
+    "box_006": {
+      "sources": {
+        "x": {
+          "price": null,
+          "count": 0,
+          "type": "buy_offer",
+          "samples": []
+        },
+        "mercari": {
+          "price": null,
+          "count": 0,
+          "type": "sold",
+          "samples": []
+        },
+        "snkrdunk": {
+          "price": null,
+          "count": 0,
+          "type": "sold",
+          "samples": []
+        }
+      },
+      "reference_average": 21000,
+      "source_count": 1,
+      "previous_average": null,
+      "price_kind": "max_buyback_shrinkwrapped",
+      "source_url": "https://rakusetsu.com/pokemon-box-price/multishop/",
+      "price_as_of": "2026-10-31"
+    },
+    "box_007": {
+      "sources": {
+        "x": {
+          "price": null,
+          "count": 0,
+          "type": "buy_offer",
+          "samples": []
+        },
+        "mercari": {
+          "price": null,
+          "count": 0,
+          "type": "sold",
+          "samples": []
+        },
+        "snkrdunk": {
+          "price": null,
+          "count": 0,
+          "type": "sold",
+          "samples": []
+        }
+      },
+      "reference_average": 30500,
+      "source_count": 1,
+      "previous_average": null,
+      "price_kind": "max_buyback_shrinkwrapped",
+      "source_url": "https://rakusetsu.com/pokemon-box-price/multishop/",
+      "price_as_of": "2026-10-31"
+    },
+    "box_008": {
+      "sources": {
+        "x": {
+          "price": null,
+          "count": 0,
+          "type": "buy_offer",
+          "samples": []
+        },
+        "mercari": {
+          "price": null,
+          "count": 0,
+          "type": "sold",
+          "samples": []
+        },
+        "snkrdunk": {
+          "price": null,
+          "count": 0,
+          "type": "sold",
+          "samples": []
+        }
+      },
+      "reference_average": 92000,
+      "source_count": 1,
+      "previous_average": null,
+      "price_kind": "max_buyback_shrinkwrapped",
+      "source_url": "https://rakusetsu.com/pokemon-box-price/multishop/",
+      "price_as_of": "2026-10-31"
+    },
+    "box_009": {
+      "sources": {
+        "x": {
+          "price": null,
+          "count": 0,
+          "type": "buy_offer",
+          "samples": []
+        },
+        "mercari": {
+          "price": null,
+          "count": 0,
+          "type": "sold",
+          "samples": []
+        },
+        "snkrdunk": {
+          "price": null,
+          "count": 0,
+          "type": "sold",
+          "samples": []
+        }
+      },
+      "reference_average": 26800,
+      "source_count": 1,
+      "previous_average": null,
+      "price_kind": "max_buyback_shrinkwrapped",
+      "source_url": "https://rakusetsu.com/pokemon-box-price/multishop/",
+      "price_as_of": "2026-10-31"
+    },
+    "box_010": {
+      "sources": {
+        "x": {
+          "price": null,
+          "count": 0,
+          "type": "buy_offer",
+          "samples": []
+        },
+        "mercari": {
+          "price": null,
+          "count": 0,
+          "type": "sold",
+          "samples": []
+        },
+        "snkrdunk": {
+          "price": null,
+          "count": 0,
+          "type": "sold",
+          "samples": []
+        }
+      },
+      "reference_average": 7800,
+      "source_count": 1,
+      "previous_average": null,
+      "price_kind": "max_buyback_shrinkwrapped",
+      "source_url": "https://rakusetsu.com/pokemon-box-price/multishop/",
+      "price_as_of": "2026-10-31"
     },
     "inferno_x": {
       "sources": {
@@ -72,13 +303,2846 @@
           "samples": []
         }
       },
+      "reference_average": 17500,
+      "source_count": 1,
+      "previous_average": null,
+      "price_kind": "max_buyback_shrinkwrapped",
+      "source_url": "https://rakusetsu.com/pokemon-box-price/multishop/",
+      "price_as_of": "2026-10-31"
+    },
+    "box_012": {
+      "sources": {
+        "x": {
+          "price": null,
+          "count": 0,
+          "type": "buy_offer",
+          "samples": []
+        },
+        "mercari": {
+          "price": null,
+          "count": 0,
+          "type": "sold",
+          "samples": []
+        },
+        "snkrdunk": {
+          "price": null,
+          "count": 0,
+          "type": "sold",
+          "samples": []
+        }
+      },
+      "reference_average": 13000,
+      "source_count": 1,
+      "previous_average": null,
+      "price_kind": "max_buyback_shrinkwrapped",
+      "source_url": "https://rakusetsu.com/pokemon-box-price/multishop/",
+      "price_as_of": "2026-10-31"
+    },
+    "box_013": {
+      "sources": {
+        "x": {
+          "price": null,
+          "count": 0,
+          "type": "buy_offer",
+          "samples": []
+        },
+        "mercari": {
+          "price": null,
+          "count": 0,
+          "type": "sold",
+          "samples": []
+        },
+        "snkrdunk": {
+          "price": null,
+          "count": 0,
+          "type": "sold",
+          "samples": []
+        }
+      },
+      "reference_average": 10900,
+      "source_count": 1,
+      "previous_average": null,
+      "price_kind": "max_buyback_shrinkwrapped",
+      "source_url": "https://rakusetsu.com/pokemon-box-price/multishop/",
+      "price_as_of": "2026-10-31"
+    },
+    "box_014": {
+      "sources": {
+        "x": {
+          "price": null,
+          "count": 0,
+          "type": "buy_offer",
+          "samples": []
+        },
+        "mercari": {
+          "price": null,
+          "count": 0,
+          "type": "sold",
+          "samples": []
+        },
+        "snkrdunk": {
+          "price": null,
+          "count": 0,
+          "type": "sold",
+          "samples": []
+        }
+      },
+      "reference_average": 11200,
+      "source_count": 1,
+      "previous_average": null,
+      "price_kind": "max_buyback_shrinkwrapped",
+      "source_url": "https://rakusetsu.com/pokemon-box-price/multishop/",
+      "price_as_of": "2026-10-31"
+    },
+    "box_015": {
+      "sources": {
+        "x": {
+          "price": null,
+          "count": 0,
+          "type": "buy_offer",
+          "samples": []
+        },
+        "mercari": {
+          "price": null,
+          "count": 0,
+          "type": "sold",
+          "samples": []
+        },
+        "snkrdunk": {
+          "price": null,
+          "count": 0,
+          "type": "sold",
+          "samples": []
+        }
+      },
+      "reference_average": 65000,
+      "source_count": 1,
+      "previous_average": null,
+      "price_kind": "max_buyback_shrinkwrapped",
+      "source_url": "https://rakusetsu.com/pokemon-box-price/multishop/",
+      "price_as_of": "2026-10-31"
+    },
+    "box_016": {
+      "sources": {
+        "x": {
+          "price": null,
+          "count": 0,
+          "type": "buy_offer",
+          "samples": []
+        },
+        "mercari": {
+          "price": null,
+          "count": 0,
+          "type": "sold",
+          "samples": []
+        },
+        "snkrdunk": {
+          "price": null,
+          "count": 0,
+          "type": "sold",
+          "samples": []
+        }
+      },
+      "reference_average": 21000,
+      "source_count": 1,
+      "previous_average": null,
+      "price_kind": "max_buyback_shrinkwrapped",
+      "source_url": "https://rakusetsu.com/pokemon-box-price/multishop/",
+      "price_as_of": "2026-10-31"
+    },
+    "box_017": {
+      "sources": {
+        "x": {
+          "price": null,
+          "count": 0,
+          "type": "buy_offer",
+          "samples": []
+        },
+        "mercari": {
+          "price": null,
+          "count": 0,
+          "type": "sold",
+          "samples": []
+        },
+        "snkrdunk": {
+          "price": null,
+          "count": 0,
+          "type": "sold",
+          "samples": []
+        }
+      },
+      "reference_average": 18100,
+      "source_count": 1,
+      "previous_average": null,
+      "price_kind": "max_buyback_shrinkwrapped",
+      "source_url": "https://rakusetsu.com/pokemon-box-price/multishop/",
+      "price_as_of": "2026-10-31"
+    },
+    "box_018": {
+      "sources": {
+        "x": {
+          "price": null,
+          "count": 0,
+          "type": "buy_offer",
+          "samples": []
+        },
+        "mercari": {
+          "price": null,
+          "count": 0,
+          "type": "sold",
+          "samples": []
+        },
+        "snkrdunk": {
+          "price": null,
+          "count": 0,
+          "type": "sold",
+          "samples": []
+        }
+      },
+      "reference_average": 13500,
+      "source_count": 1,
+      "previous_average": null,
+      "price_kind": "max_buyback_shrinkwrapped",
+      "source_url": "https://rakusetsu.com/pokemon-box-price/multishop/",
+      "price_as_of": "2026-10-31"
+    },
+    "box_019": {
+      "sources": {
+        "x": {
+          "price": null,
+          "count": 0,
+          "type": "buy_offer",
+          "samples": []
+        },
+        "mercari": {
+          "price": null,
+          "count": 0,
+          "type": "sold",
+          "samples": []
+        },
+        "snkrdunk": {
+          "price": null,
+          "count": 0,
+          "type": "sold",
+          "samples": []
+        }
+      },
+      "reference_average": 800,
+      "source_count": 1,
+      "previous_average": null,
+      "price_kind": "max_buyback_shrinkwrapped",
+      "source_url": "https://rakusetsu.com/pokemon-box-price/multishop/",
+      "price_as_of": "2026-10-31"
+    },
+    "box_020": {
+      "sources": {
+        "x": {
+          "price": null,
+          "count": 0,
+          "type": "buy_offer",
+          "samples": []
+        },
+        "mercari": {
+          "price": null,
+          "count": 0,
+          "type": "sold",
+          "samples": []
+        },
+        "snkrdunk": {
+          "price": null,
+          "count": 0,
+          "type": "sold",
+          "samples": []
+        }
+      },
+      "reference_average": 20800,
+      "source_count": 1,
+      "previous_average": null,
+      "price_kind": "max_buyback_shrinkwrapped",
+      "source_url": "https://rakusetsu.com/pokemon-box-price/multishop/",
+      "price_as_of": "2026-10-31"
+    },
+    "box_021": {
+      "sources": {
+        "x": {
+          "price": null,
+          "count": 0,
+          "type": "buy_offer",
+          "samples": []
+        },
+        "mercari": {
+          "price": null,
+          "count": 0,
+          "type": "sold",
+          "samples": []
+        },
+        "snkrdunk": {
+          "price": null,
+          "count": 0,
+          "type": "sold",
+          "samples": []
+        }
+      },
+      "reference_average": 12000,
+      "source_count": 1,
+      "previous_average": null,
+      "price_kind": "max_buyback_shrinkwrapped",
+      "source_url": "https://rakusetsu.com/pokemon-box-price/multishop/",
+      "price_as_of": "2026-10-31"
+    },
+    "box_022": {
+      "sources": {
+        "x": {
+          "price": null,
+          "count": 0,
+          "type": "buy_offer",
+          "samples": []
+        },
+        "mercari": {
+          "price": null,
+          "count": 0,
+          "type": "sold",
+          "samples": []
+        },
+        "snkrdunk": {
+          "price": null,
+          "count": 0,
+          "type": "sold",
+          "samples": []
+        }
+      },
+      "reference_average": 9000,
+      "source_count": 1,
+      "previous_average": null,
+      "price_kind": "max_buyback_shrinkwrapped",
+      "source_url": "https://rakusetsu.com/pokemon-box-price/multishop/",
+      "price_as_of": "2026-10-31"
+    },
+    "box_023": {
+      "sources": {
+        "x": {
+          "price": null,
+          "count": 0,
+          "type": "buy_offer",
+          "samples": []
+        },
+        "mercari": {
+          "price": null,
+          "count": 0,
+          "type": "sold",
+          "samples": []
+        },
+        "snkrdunk": {
+          "price": null,
+          "count": 0,
+          "type": "sold",
+          "samples": []
+        }
+      },
+      "reference_average": 12000,
+      "source_count": 1,
+      "previous_average": null,
+      "price_kind": "max_buyback_shrinkwrapped",
+      "source_url": "https://rakusetsu.com/pokemon-box-price/multishop/",
+      "price_as_of": "2026-10-31"
+    },
+    "box_024": {
+      "sources": {
+        "x": {
+          "price": null,
+          "count": 0,
+          "type": "buy_offer",
+          "samples": []
+        },
+        "mercari": {
+          "price": null,
+          "count": 0,
+          "type": "sold",
+          "samples": []
+        },
+        "snkrdunk": {
+          "price": null,
+          "count": 0,
+          "type": "sold",
+          "samples": []
+        }
+      },
+      "reference_average": 13500,
+      "source_count": 1,
+      "previous_average": null,
+      "price_kind": "max_buyback_shrinkwrapped",
+      "source_url": "https://rakusetsu.com/pokemon-box-price/multishop/",
+      "price_as_of": "2026-10-31"
+    },
+    "box_025": {
+      "sources": {
+        "x": {
+          "price": null,
+          "count": 0,
+          "type": "buy_offer",
+          "samples": []
+        },
+        "mercari": {
+          "price": null,
+          "count": 0,
+          "type": "sold",
+          "samples": []
+        },
+        "snkrdunk": {
+          "price": null,
+          "count": 0,
+          "type": "sold",
+          "samples": []
+        }
+      },
+      "reference_average": 50000,
+      "source_count": 1,
+      "previous_average": null,
+      "price_kind": "max_buyback_shrinkwrapped",
+      "source_url": "https://rakusetsu.com/pokemon-box-price/multishop/",
+      "price_as_of": "2026-10-31"
+    },
+    "box_026": {
+      "sources": {
+        "x": {
+          "price": null,
+          "count": 0,
+          "type": "buy_offer",
+          "samples": []
+        },
+        "mercari": {
+          "price": null,
+          "count": 0,
+          "type": "sold",
+          "samples": []
+        },
+        "snkrdunk": {
+          "price": null,
+          "count": 0,
+          "type": "sold",
+          "samples": []
+        }
+      },
+      "reference_average": 23000,
+      "source_count": 1,
+      "previous_average": null,
+      "price_kind": "max_buyback_shrinkwrapped",
+      "source_url": "https://rakusetsu.com/pokemon-box-price/multishop/",
+      "price_as_of": "2026-10-31"
+    },
+    "box_027": {
+      "sources": {
+        "x": {
+          "price": null,
+          "count": 0,
+          "type": "buy_offer",
+          "samples": []
+        },
+        "mercari": {
+          "price": null,
+          "count": 0,
+          "type": "sold",
+          "samples": []
+        },
+        "snkrdunk": {
+          "price": null,
+          "count": 0,
+          "type": "sold",
+          "samples": []
+        }
+      },
+      "reference_average": 19000,
+      "source_count": 1,
+      "previous_average": null,
+      "price_kind": "max_buyback_shrinkwrapped",
+      "source_url": "https://rakusetsu.com/pokemon-box-price/multishop/",
+      "price_as_of": "2026-10-31"
+    },
+    "box_028": {
+      "sources": {
+        "x": {
+          "price": null,
+          "count": 0,
+          "type": "buy_offer",
+          "samples": []
+        },
+        "mercari": {
+          "price": null,
+          "count": 0,
+          "type": "sold",
+          "samples": []
+        },
+        "snkrdunk": {
+          "price": null,
+          "count": 0,
+          "type": "sold",
+          "samples": []
+        }
+      },
+      "reference_average": 18500,
+      "source_count": 1,
+      "previous_average": null,
+      "price_kind": "max_buyback_shrinkwrapped",
+      "source_url": "https://rakusetsu.com/pokemon-box-price/multishop/",
+      "price_as_of": "2026-10-31"
+    },
+    "box_029": {
+      "sources": {
+        "x": {
+          "price": null,
+          "count": 0,
+          "type": "buy_offer",
+          "samples": []
+        },
+        "mercari": {
+          "price": null,
+          "count": 0,
+          "type": "sold",
+          "samples": []
+        },
+        "snkrdunk": {
+          "price": null,
+          "count": 0,
+          "type": "sold",
+          "samples": []
+        }
+      },
+      "reference_average": 17809,
+      "source_count": 1,
+      "previous_average": null,
+      "price_kind": "max_buyback_shrinkwrapped",
+      "source_url": "https://rakusetsu.com/pokemon-box-price/multishop/",
+      "price_as_of": "2026-10-31"
+    },
+    "box_030": {
+      "sources": {
+        "x": {
+          "price": null,
+          "count": 0,
+          "type": "buy_offer",
+          "samples": []
+        },
+        "mercari": {
+          "price": null,
+          "count": 0,
+          "type": "sold",
+          "samples": []
+        },
+        "snkrdunk": {
+          "price": null,
+          "count": 0,
+          "type": "sold",
+          "samples": []
+        }
+      },
+      "reference_average": 12200,
+      "source_count": 1,
+      "previous_average": null,
+      "price_kind": "max_buyback_shrinkwrapped",
+      "source_url": "https://rakusetsu.com/pokemon-box-price/multishop/",
+      "price_as_of": "2026-10-31"
+    },
+    "box_031": {
+      "sources": {
+        "x": {
+          "price": null,
+          "count": 0,
+          "type": "buy_offer",
+          "samples": []
+        },
+        "mercari": {
+          "price": null,
+          "count": 0,
+          "type": "sold",
+          "samples": []
+        },
+        "snkrdunk": {
+          "price": null,
+          "count": 0,
+          "type": "sold",
+          "samples": []
+        }
+      },
+      "reference_average": 8200,
+      "source_count": 1,
+      "previous_average": null,
+      "price_kind": "max_buyback_shrinkwrapped",
+      "source_url": "https://rakusetsu.com/pokemon-box-price/multishop/",
+      "price_as_of": "2026-10-31"
+    },
+    "box_032": {
+      "sources": {
+        "x": {
+          "price": null,
+          "count": 0,
+          "type": "buy_offer",
+          "samples": []
+        },
+        "mercari": {
+          "price": null,
+          "count": 0,
+          "type": "sold",
+          "samples": []
+        },
+        "snkrdunk": {
+          "price": null,
+          "count": 0,
+          "type": "sold",
+          "samples": []
+        }
+      },
+      "reference_average": 10500,
+      "source_count": 1,
+      "previous_average": null,
+      "price_kind": "max_buyback_shrinkwrapped",
+      "source_url": "https://rakusetsu.com/pokemon-box-price/multishop/",
+      "price_as_of": "2026-10-31"
+    },
+    "box_033": {
+      "sources": {
+        "x": {
+          "price": null,
+          "count": 0,
+          "type": "buy_offer",
+          "samples": []
+        },
+        "mercari": {
+          "price": null,
+          "count": 0,
+          "type": "sold",
+          "samples": []
+        },
+        "snkrdunk": {
+          "price": null,
+          "count": 0,
+          "type": "sold",
+          "samples": []
+        }
+      },
+      "reference_average": 9500,
+      "source_count": 1,
+      "previous_average": null,
+      "price_kind": "max_buyback_shrinkwrapped",
+      "source_url": "https://rakusetsu.com/pokemon-box-price/multishop/",
+      "price_as_of": "2026-10-31"
+    },
+    "box_034": {
+      "sources": {
+        "x": {
+          "price": null,
+          "count": 0,
+          "type": "buy_offer",
+          "samples": []
+        },
+        "mercari": {
+          "price": null,
+          "count": 0,
+          "type": "sold",
+          "samples": []
+        },
+        "snkrdunk": {
+          "price": null,
+          "count": 0,
+          "type": "sold",
+          "samples": []
+        }
+      },
+      "reference_average": 13000,
+      "source_count": 1,
+      "previous_average": null,
+      "price_kind": "max_buyback_shrinkwrapped",
+      "source_url": "https://rakusetsu.com/pokemon-box-price/multishop/",
+      "price_as_of": "2026-10-31"
+    },
+    "box_035": {
+      "sources": {
+        "x": {
+          "price": null,
+          "count": 0,
+          "type": "buy_offer",
+          "samples": []
+        },
+        "mercari": {
+          "price": null,
+          "count": 0,
+          "type": "sold",
+          "samples": []
+        },
+        "snkrdunk": {
+          "price": null,
+          "count": 0,
+          "type": "sold",
+          "samples": []
+        }
+      },
+      "reference_average": 21100,
+      "source_count": 1,
+      "previous_average": null,
+      "price_kind": "max_buyback_shrinkwrapped",
+      "source_url": "https://rakusetsu.com/pokemon-box-price/multishop/",
+      "price_as_of": "2026-10-31"
+    },
+    "box_036": {
+      "sources": {
+        "x": {
+          "price": null,
+          "count": 0,
+          "type": "buy_offer",
+          "samples": []
+        },
+        "mercari": {
+          "price": null,
+          "count": 0,
+          "type": "sold",
+          "samples": []
+        },
+        "snkrdunk": {
+          "price": null,
+          "count": 0,
+          "type": "sold",
+          "samples": []
+        }
+      },
+      "reference_average": 58500,
+      "source_count": 1,
+      "previous_average": null,
+      "price_kind": "max_buyback_shrinkwrapped",
+      "source_url": "https://rakusetsu.com/pokemon-box-price/multishop/",
+      "price_as_of": "2026-10-31"
+    },
+    "box_037": {
+      "sources": {
+        "x": {
+          "price": null,
+          "count": 0,
+          "type": "buy_offer",
+          "samples": []
+        },
+        "mercari": {
+          "price": null,
+          "count": 0,
+          "type": "sold",
+          "samples": []
+        },
+        "snkrdunk": {
+          "price": null,
+          "count": 0,
+          "type": "sold",
+          "samples": []
+        }
+      },
+      "reference_average": 24500,
+      "source_count": 1,
+      "previous_average": null,
+      "price_kind": "max_buyback_shrinkwrapped",
+      "source_url": "https://rakusetsu.com/pokemon-box-price/multishop/",
+      "price_as_of": "2026-10-31"
+    },
+    "box_038": {
+      "sources": {
+        "x": {
+          "price": null,
+          "count": 0,
+          "type": "buy_offer",
+          "samples": []
+        },
+        "mercari": {
+          "price": null,
+          "count": 0,
+          "type": "sold",
+          "samples": []
+        },
+        "snkrdunk": {
+          "price": null,
+          "count": 0,
+          "type": "sold",
+          "samples": []
+        }
+      },
+      "reference_average": 26000,
+      "source_count": 1,
+      "previous_average": null,
+      "price_kind": "max_buyback_shrinkwrapped",
+      "source_url": "https://rakusetsu.com/pokemon-box-price/multishop/",
+      "price_as_of": "2026-10-31"
+    },
+    "pokemon151": {
+      "sources": {
+        "x": {
+          "price": null,
+          "count": 0,
+          "type": "buy_offer",
+          "samples": []
+        },
+        "mercari": {
+          "price": null,
+          "count": 0,
+          "type": "sold",
+          "samples": []
+        },
+        "snkrdunk": {
+          "price": null,
+          "count": 0,
+          "type": "sold",
+          "samples": []
+        }
+      },
+      "reference_average": 48000,
+      "source_count": 1,
+      "previous_average": null,
+      "price_kind": "max_buyback_shrinkwrapped",
+      "source_url": "https://rakusetsu.com/pokemon-box-price/multishop/",
+      "price_as_of": "2026-10-31"
+    },
+    "box_040": {
+      "sources": {
+        "x": {
+          "price": null,
+          "count": 0,
+          "type": "buy_offer",
+          "samples": []
+        },
+        "mercari": {
+          "price": null,
+          "count": 0,
+          "type": "sold",
+          "samples": []
+        },
+        "snkrdunk": {
+          "price": null,
+          "count": 0,
+          "type": "sold",
+          "samples": []
+        }
+      },
+      "reference_average": 12000,
+      "source_count": 1,
+      "previous_average": null,
+      "price_kind": "max_buyback_shrinkwrapped",
+      "source_url": "https://rakusetsu.com/pokemon-box-price/multishop/",
+      "price_as_of": "2026-10-31"
+    },
+    "box_041": {
+      "sources": {
+        "x": {
+          "price": null,
+          "count": 0,
+          "type": "buy_offer",
+          "samples": []
+        },
+        "mercari": {
+          "price": null,
+          "count": 0,
+          "type": "sold",
+          "samples": []
+        },
+        "snkrdunk": {
+          "price": null,
+          "count": 0,
+          "type": "sold",
+          "samples": []
+        }
+      },
+      "reference_average": 14000,
+      "source_count": 1,
+      "previous_average": null,
+      "price_kind": "max_buyback_shrinkwrapped",
+      "source_url": "https://rakusetsu.com/pokemon-box-price/multishop/",
+      "price_as_of": "2026-10-31"
+    },
+    "box_042": {
+      "sources": {
+        "x": {
+          "price": null,
+          "count": 0,
+          "type": "buy_offer",
+          "samples": []
+        },
+        "mercari": {
+          "price": null,
+          "count": 0,
+          "type": "sold",
+          "samples": []
+        },
+        "snkrdunk": {
+          "price": null,
+          "count": 0,
+          "type": "sold",
+          "samples": []
+        }
+      },
+      "reference_average": 12000,
+      "source_count": 1,
+      "previous_average": null,
+      "price_kind": "max_buyback_shrinkwrapped",
+      "source_url": "https://rakusetsu.com/pokemon-box-price/multishop/",
+      "price_as_of": "2026-10-31"
+    },
+    "box_043": {
+      "sources": {
+        "x": {
+          "price": null,
+          "count": 0,
+          "type": "buy_offer",
+          "samples": []
+        },
+        "mercari": {
+          "price": null,
+          "count": 0,
+          "type": "sold",
+          "samples": []
+        },
+        "snkrdunk": {
+          "price": null,
+          "count": 0,
+          "type": "sold",
+          "samples": []
+        }
+      },
+      "reference_average": 22000,
+      "source_count": 1,
+      "previous_average": null,
+      "price_kind": "max_buyback_shrinkwrapped",
+      "source_url": "https://rakusetsu.com/pokemon-box-price/multishop/",
+      "price_as_of": "2026-10-31"
+    },
+    "box_044": {
+      "sources": {
+        "x": {
+          "price": null,
+          "count": 0,
+          "type": "buy_offer",
+          "samples": []
+        },
+        "mercari": {
+          "price": null,
+          "count": 0,
+          "type": "sold",
+          "samples": []
+        },
+        "snkrdunk": {
+          "price": null,
+          "count": 0,
+          "type": "sold",
+          "samples": []
+        }
+      },
+      "reference_average": 23000,
+      "source_count": 1,
+      "previous_average": null,
+      "price_kind": "max_buyback_shrinkwrapped",
+      "source_url": "https://rakusetsu.com/pokemon-box-price/multishop/",
+      "price_as_of": "2026-10-31"
+    },
+    "box_045": {
+      "sources": {
+        "x": {
+          "price": null,
+          "count": 0,
+          "type": "buy_offer",
+          "samples": []
+        },
+        "mercari": {
+          "price": null,
+          "count": 0,
+          "type": "sold",
+          "samples": []
+        },
+        "snkrdunk": {
+          "price": null,
+          "count": 0,
+          "type": "sold",
+          "samples": []
+        }
+      },
+      "reference_average": 44000,
+      "source_count": 1,
+      "previous_average": null,
+      "price_kind": "max_buyback_shrinkwrapped",
+      "source_url": "https://rakusetsu.com/pokemon-box-price/multishop/",
+      "price_as_of": "2026-10-31"
+    },
+    "box_046": {
+      "sources": {
+        "x": {
+          "price": null,
+          "count": 0,
+          "type": "buy_offer",
+          "samples": []
+        },
+        "mercari": {
+          "price": null,
+          "count": 0,
+          "type": "sold",
+          "samples": []
+        },
+        "snkrdunk": {
+          "price": null,
+          "count": 0,
+          "type": "sold",
+          "samples": []
+        }
+      },
+      "reference_average": 8200,
+      "source_count": 1,
+      "previous_average": null,
+      "price_kind": "max_buyback_shrinkwrapped",
+      "source_url": "https://rakusetsu.com/pokemon-box-price/multishop/",
+      "price_as_of": "2026-10-31"
+    },
+    "box_047": {
+      "sources": {
+        "x": {
+          "price": null,
+          "count": 0,
+          "type": "buy_offer",
+          "samples": []
+        },
+        "mercari": {
+          "price": null,
+          "count": 0,
+          "type": "sold",
+          "samples": []
+        },
+        "snkrdunk": {
+          "price": null,
+          "count": 0,
+          "type": "sold",
+          "samples": []
+        }
+      },
+      "reference_average": 7400,
+      "source_count": 1,
+      "previous_average": null,
+      "price_kind": "max_buyback_shrinkwrapped",
+      "source_url": "https://rakusetsu.com/pokemon-box-price/multishop/",
+      "price_as_of": "2026-10-31"
+    },
+    "box_048": {
+      "sources": {
+        "x": {
+          "price": null,
+          "count": 0,
+          "type": "buy_offer",
+          "samples": []
+        },
+        "mercari": {
+          "price": null,
+          "count": 0,
+          "type": "sold",
+          "samples": []
+        },
+        "snkrdunk": {
+          "price": null,
+          "count": 0,
+          "type": "sold",
+          "samples": []
+        }
+      },
+      "reference_average": 7500,
+      "source_count": 1,
+      "previous_average": null,
+      "price_kind": "max_buyback_shrinkwrapped",
+      "source_url": "https://rakusetsu.com/pokemon-box-price/multishop/",
+      "price_as_of": "2026-10-31"
+    },
+    "box_049": {
+      "sources": {
+        "x": {
+          "price": null,
+          "count": 0,
+          "type": "buy_offer",
+          "samples": []
+        },
+        "mercari": {
+          "price": null,
+          "count": 0,
+          "type": "sold",
+          "samples": []
+        },
+        "snkrdunk": {
+          "price": null,
+          "count": 0,
+          "type": "sold",
+          "samples": []
+        }
+      },
+      "reference_average": 16200,
+      "source_count": 1,
+      "previous_average": null,
+      "price_kind": "max_buyback_shrinkwrapped",
+      "source_url": "https://rakusetsu.com/pokemon-box-price/multishop/",
+      "price_as_of": "2026-10-31"
+    },
+    "rocket_glory": {
+      "sources": {
+        "x": {
+          "price": null,
+          "count": 0,
+          "type": "buy_offer",
+          "samples": []
+        },
+        "mercari": {
+          "price": null,
+          "count": 0,
+          "type": "sold",
+          "samples": []
+        },
+        "snkrdunk": {
+          "price": null,
+          "count": 0,
+          "type": "sold",
+          "samples": []
+        }
+      },
+      "reference_average": 24000,
+      "source_count": 1,
+      "previous_average": null,
+      "price_kind": "max_buyback_shrinkwrapped",
+      "source_url": "https://rakusetsu.com/pokemon-box-price/multishop/",
+      "price_as_of": "2026-10-31"
+    },
+    "box_051": {
+      "sources": {
+        "x": {
+          "price": null,
+          "count": 0,
+          "type": "buy_offer",
+          "samples": []
+        },
+        "mercari": {
+          "price": null,
+          "count": 0,
+          "type": "sold",
+          "samples": []
+        },
+        "snkrdunk": {
+          "price": null,
+          "count": 0,
+          "type": "sold",
+          "samples": []
+        }
+      },
+      "reference_average": 49000,
+      "source_count": 1,
+      "previous_average": null,
+      "price_kind": "max_buyback_shrinkwrapped",
+      "source_url": "https://rakusetsu.com/pokemon-box-price/multishop/",
+      "price_as_of": "2026-10-31"
+    },
+    "box_052": {
+      "sources": {
+        "x": {
+          "price": null,
+          "count": 0,
+          "type": "buy_offer",
+          "samples": []
+        },
+        "mercari": {
+          "price": null,
+          "count": 0,
+          "type": "sold",
+          "samples": []
+        },
+        "snkrdunk": {
+          "price": null,
+          "count": 0,
+          "type": "sold",
+          "samples": []
+        }
+      },
+      "reference_average": 12200,
+      "source_count": 1,
+      "previous_average": null,
+      "price_kind": "max_buyback_shrinkwrapped",
+      "source_url": "https://rakusetsu.com/pokemon-box-price/multishop/",
+      "price_as_of": "2026-10-31"
+    },
+    "box_053": {
+      "sources": {
+        "x": {
+          "price": null,
+          "count": 0,
+          "type": "buy_offer",
+          "samples": []
+        },
+        "mercari": {
+          "price": null,
+          "count": 0,
+          "type": "sold",
+          "samples": []
+        },
+        "snkrdunk": {
+          "price": null,
+          "count": 0,
+          "type": "sold",
+          "samples": []
+        }
+      },
+      "reference_average": 40000,
+      "source_count": 1,
+      "previous_average": null,
+      "price_kind": "max_buyback_shrinkwrapped",
+      "source_url": "https://rakusetsu.com/pokemon-box-price/multishop/",
+      "price_as_of": "2026-10-31"
+    },
+    "box_054": {
+      "sources": {
+        "x": {
+          "price": null,
+          "count": 0,
+          "type": "buy_offer",
+          "samples": []
+        },
+        "mercari": {
+          "price": null,
+          "count": 0,
+          "type": "sold",
+          "samples": []
+        },
+        "snkrdunk": {
+          "price": null,
+          "count": 0,
+          "type": "sold",
+          "samples": []
+        }
+      },
+      "reference_average": 15500,
+      "source_count": 1,
+      "previous_average": null,
+      "price_kind": "max_buyback_shrinkwrapped",
+      "source_url": "https://rakusetsu.com/pokemon-box-price/multishop/",
+      "price_as_of": "2026-10-31"
+    },
+    "box_055": {
+      "sources": {
+        "x": {
+          "price": null,
+          "count": 0,
+          "type": "buy_offer",
+          "samples": []
+        },
+        "mercari": {
+          "price": null,
+          "count": 0,
+          "type": "sold",
+          "samples": []
+        },
+        "snkrdunk": {
+          "price": null,
+          "count": 0,
+          "type": "sold",
+          "samples": []
+        }
+      },
+      "reference_average": 47000,
+      "source_count": 1,
+      "previous_average": null,
+      "price_kind": "max_buyback_shrinkwrapped",
+      "source_url": "https://rakusetsu.com/pokemon-box-price/multishop/",
+      "price_as_of": "2026-10-31"
+    },
+    "box_056": {
+      "sources": {
+        "x": {
+          "price": null,
+          "count": 0,
+          "type": "buy_offer",
+          "samples": []
+        },
+        "mercari": {
+          "price": null,
+          "count": 0,
+          "type": "sold",
+          "samples": []
+        },
+        "snkrdunk": {
+          "price": null,
+          "count": 0,
+          "type": "sold",
+          "samples": []
+        }
+      },
+      "reference_average": 11700,
+      "source_count": 1,
+      "previous_average": null,
+      "price_kind": "max_buyback_shrinkwrapped",
+      "source_url": "https://rakusetsu.com/pokemon-box-price/multishop/",
+      "price_as_of": "2026-10-31"
+    },
+    "box_057": {
+      "sources": {
+        "x": {
+          "price": null,
+          "count": 0,
+          "type": "buy_offer",
+          "samples": []
+        },
+        "mercari": {
+          "price": null,
+          "count": 0,
+          "type": "sold",
+          "samples": []
+        },
+        "snkrdunk": {
+          "price": null,
+          "count": 0,
+          "type": "sold",
+          "samples": []
+        }
+      },
+      "reference_average": 19100,
+      "source_count": 1,
+      "previous_average": null,
+      "price_kind": "max_buyback_shrinkwrapped",
+      "source_url": "https://rakusetsu.com/pokemon-box-price/multishop/",
+      "price_as_of": "2026-10-31"
+    },
+    "box_058": {
+      "sources": {
+        "x": {
+          "price": null,
+          "count": 0,
+          "type": "buy_offer",
+          "samples": []
+        },
+        "mercari": {
+          "price": null,
+          "count": 0,
+          "type": "sold",
+          "samples": []
+        },
+        "snkrdunk": {
+          "price": null,
+          "count": 0,
+          "type": "sold",
+          "samples": []
+        }
+      },
+      "reference_average": 21000,
+      "source_count": 1,
+      "previous_average": null,
+      "price_kind": "max_buyback_shrinkwrapped",
+      "source_url": "https://rakusetsu.com/pokemon-box-price/multishop/",
+      "price_as_of": "2026-10-31"
+    },
+    "box_059": {
+      "sources": {
+        "x": {
+          "price": null,
+          "count": 0,
+          "type": "buy_offer",
+          "samples": []
+        },
+        "mercari": {
+          "price": null,
+          "count": 0,
+          "type": "sold",
+          "samples": []
+        },
+        "snkrdunk": {
+          "price": null,
+          "count": 0,
+          "type": "sold",
+          "samples": []
+        }
+      },
+      "reference_average": 40000,
+      "source_count": 1,
+      "previous_average": null,
+      "price_kind": "max_buyback_shrinkwrapped",
+      "source_url": "https://rakusetsu.com/pokemon-box-price/multishop/",
+      "price_as_of": "2026-10-31"
+    },
+    "box_060": {
+      "sources": {
+        "x": {
+          "price": null,
+          "count": 0,
+          "type": "buy_offer",
+          "samples": []
+        },
+        "mercari": {
+          "price": null,
+          "count": 0,
+          "type": "sold",
+          "samples": []
+        },
+        "snkrdunk": {
+          "price": null,
+          "count": 0,
+          "type": "sold",
+          "samples": []
+        }
+      },
+      "reference_average": 27500,
+      "source_count": 1,
+      "previous_average": null,
+      "price_kind": "max_buyback_shrinkwrapped",
+      "source_url": "https://rakusetsu.com/pokemon-box-price/multishop/",
+      "price_as_of": "2026-10-31"
+    },
+    "box_061": {
+      "sources": {
+        "x": {
+          "price": null,
+          "count": 0,
+          "type": "buy_offer",
+          "samples": []
+        },
+        "mercari": {
+          "price": null,
+          "count": 0,
+          "type": "sold",
+          "samples": []
+        },
+        "snkrdunk": {
+          "price": null,
+          "count": 0,
+          "type": "sold",
+          "samples": []
+        }
+      },
+      "reference_average": 34000,
+      "source_count": 1,
+      "previous_average": null,
+      "price_kind": "max_buyback_shrinkwrapped",
+      "source_url": "https://rakusetsu.com/pokemon-box-price/multishop/",
+      "price_as_of": "2026-10-31"
+    },
+    "box_062": {
+      "sources": {
+        "x": {
+          "price": null,
+          "count": 0,
+          "type": "buy_offer",
+          "samples": []
+        },
+        "mercari": {
+          "price": null,
+          "count": 0,
+          "type": "sold",
+          "samples": []
+        },
+        "snkrdunk": {
+          "price": null,
+          "count": 0,
+          "type": "sold",
+          "samples": []
+        }
+      },
+      "reference_average": 18500,
+      "source_count": 1,
+      "previous_average": null,
+      "price_kind": "max_buyback_shrinkwrapped",
+      "source_url": "https://rakusetsu.com/pokemon-box-price/multishop/",
+      "price_as_of": "2026-10-31"
+    },
+    "box_063": {
+      "sources": {
+        "x": {
+          "price": null,
+          "count": 0,
+          "type": "buy_offer",
+          "samples": []
+        },
+        "mercari": {
+          "price": null,
+          "count": 0,
+          "type": "sold",
+          "samples": []
+        },
+        "snkrdunk": {
+          "price": null,
+          "count": 0,
+          "type": "sold",
+          "samples": []
+        }
+      },
+      "reference_average": 19000,
+      "source_count": 1,
+      "previous_average": null,
+      "price_kind": "max_buyback_shrinkwrapped",
+      "source_url": "https://rakusetsu.com/pokemon-box-price/multishop/",
+      "price_as_of": "2026-10-31"
+    },
+    "box_064": {
+      "sources": {
+        "x": {
+          "price": null,
+          "count": 0,
+          "type": "buy_offer",
+          "samples": []
+        },
+        "mercari": {
+          "price": null,
+          "count": 0,
+          "type": "sold",
+          "samples": []
+        },
+        "snkrdunk": {
+          "price": null,
+          "count": 0,
+          "type": "sold",
+          "samples": []
+        }
+      },
+      "reference_average": 11100,
+      "source_count": 1,
+      "previous_average": null,
+      "price_kind": "max_buyback_shrinkwrapped",
+      "source_url": "https://rakusetsu.com/pokemon-box-price/multishop/",
+      "price_as_of": "2026-10-31"
+    },
+    "box_065": {
+      "sources": {
+        "x": {
+          "price": null,
+          "count": 0,
+          "type": "buy_offer",
+          "samples": []
+        },
+        "mercari": {
+          "price": null,
+          "count": 0,
+          "type": "sold",
+          "samples": []
+        },
+        "snkrdunk": {
+          "price": null,
+          "count": 0,
+          "type": "sold",
+          "samples": []
+        }
+      },
+      "reference_average": 40000,
+      "source_count": 1,
+      "previous_average": null,
+      "price_kind": "max_buyback_shrinkwrapped",
+      "source_url": "https://rakusetsu.com/pokemon-box-price/multishop/",
+      "price_as_of": "2026-10-31"
+    },
+    "box_066": {
+      "sources": {
+        "x": {
+          "price": null,
+          "count": 0,
+          "type": "buy_offer",
+          "samples": []
+        },
+        "mercari": {
+          "price": null,
+          "count": 0,
+          "type": "sold",
+          "samples": []
+        },
+        "snkrdunk": {
+          "price": null,
+          "count": 0,
+          "type": "sold",
+          "samples": []
+        }
+      },
+      "reference_average": 47000,
+      "source_count": 1,
+      "previous_average": null,
+      "price_kind": "max_buyback_shrinkwrapped",
+      "source_url": "https://rakusetsu.com/pokemon-box-price/multishop/",
+      "price_as_of": "2026-10-31"
+    },
+    "box_067": {
+      "sources": {
+        "x": {
+          "price": null,
+          "count": 0,
+          "type": "buy_offer",
+          "samples": []
+        },
+        "mercari": {
+          "price": null,
+          "count": 0,
+          "type": "sold",
+          "samples": []
+        },
+        "snkrdunk": {
+          "price": null,
+          "count": 0,
+          "type": "sold",
+          "samples": []
+        }
+      },
+      "reference_average": 12700,
+      "source_count": 1,
+      "previous_average": null,
+      "price_kind": "max_buyback_shrinkwrapped",
+      "source_url": "https://rakusetsu.com/pokemon-box-price/multishop/",
+      "price_as_of": "2026-10-31"
+    },
+    "box_068": {
+      "sources": {
+        "x": {
+          "price": null,
+          "count": 0,
+          "type": "buy_offer",
+          "samples": []
+        },
+        "mercari": {
+          "price": null,
+          "count": 0,
+          "type": "sold",
+          "samples": []
+        },
+        "snkrdunk": {
+          "price": null,
+          "count": 0,
+          "type": "sold",
+          "samples": []
+        }
+      },
+      "reference_average": 18000,
+      "source_count": 1,
+      "previous_average": null,
+      "price_kind": "max_buyback_shrinkwrapped",
+      "source_url": "https://rakusetsu.com/pokemon-box-price/multishop/",
+      "price_as_of": "2026-10-31"
+    },
+    "box_069": {
+      "sources": {
+        "x": {
+          "price": null,
+          "count": 0,
+          "type": "buy_offer",
+          "samples": []
+        },
+        "mercari": {
+          "price": null,
+          "count": 0,
+          "type": "sold",
+          "samples": []
+        },
+        "snkrdunk": {
+          "price": null,
+          "count": 0,
+          "type": "sold",
+          "samples": []
+        }
+      },
+      "reference_average": 10200,
+      "source_count": 1,
+      "previous_average": null,
+      "price_kind": "max_buyback_shrinkwrapped",
+      "source_url": "https://rakusetsu.com/pokemon-box-price/multishop/",
+      "price_as_of": "2026-10-31"
+    },
+    "box_070": {
+      "sources": {
+        "x": {
+          "price": null,
+          "count": 0,
+          "type": "buy_offer",
+          "samples": []
+        },
+        "mercari": {
+          "price": null,
+          "count": 0,
+          "type": "sold",
+          "samples": []
+        },
+        "snkrdunk": {
+          "price": null,
+          "count": 0,
+          "type": "sold",
+          "samples": []
+        }
+      },
+      "reference_average": 45000,
+      "source_count": 1,
+      "previous_average": null,
+      "price_kind": "max_buyback_shrinkwrapped",
+      "source_url": "https://rakusetsu.com/pokemon-box-price/multishop/",
+      "price_as_of": "2026-10-31"
+    },
+    "extra_001": {
+      "sources": {
+        "x": {
+          "price": null,
+          "count": 0,
+          "type": "buy_offer",
+          "samples": []
+        },
+        "mercari": {
+          "price": null,
+          "count": 0,
+          "type": "sold",
+          "samples": []
+        },
+        "snkrdunk": {
+          "price": null,
+          "count": 0,
+          "type": "sold",
+          "samples": []
+        }
+      },
       "reference_average": null,
       "source_count": 0,
-      "previous_average": null
+      "previous_average": null,
+      "price_kind": "unverified",
+      "source_url": null,
+      "price_as_of": null
+    },
+    "extra_002": {
+      "sources": {
+        "x": {
+          "price": null,
+          "count": 0,
+          "type": "buy_offer",
+          "samples": []
+        },
+        "mercari": {
+          "price": null,
+          "count": 0,
+          "type": "sold",
+          "samples": []
+        },
+        "snkrdunk": {
+          "price": null,
+          "count": 0,
+          "type": "sold",
+          "samples": []
+        }
+      },
+      "reference_average": null,
+      "source_count": 0,
+      "previous_average": null,
+      "price_kind": "unverified",
+      "source_url": null,
+      "price_as_of": null
+    },
+    "extra_003": {
+      "sources": {
+        "x": {
+          "price": null,
+          "count": 0,
+          "type": "buy_offer",
+          "samples": []
+        },
+        "mercari": {
+          "price": null,
+          "count": 0,
+          "type": "sold",
+          "samples": []
+        },
+        "snkrdunk": {
+          "price": null,
+          "count": 0,
+          "type": "sold",
+          "samples": []
+        }
+      },
+      "reference_average": null,
+      "source_count": 0,
+      "previous_average": null,
+      "price_kind": "unverified",
+      "source_url": null,
+      "price_as_of": null
+    },
+    "extra_004": {
+      "sources": {
+        "x": {
+          "price": null,
+          "count": 0,
+          "type": "buy_offer",
+          "samples": []
+        },
+        "mercari": {
+          "price": null,
+          "count": 0,
+          "type": "sold",
+          "samples": []
+        },
+        "snkrdunk": {
+          "price": null,
+          "count": 0,
+          "type": "sold",
+          "samples": []
+        }
+      },
+      "reference_average": null,
+      "source_count": 0,
+      "previous_average": null,
+      "price_kind": "unverified",
+      "source_url": null,
+      "price_as_of": null
+    },
+    "extra_005": {
+      "sources": {
+        "x": {
+          "price": null,
+          "count": 0,
+          "type": "buy_offer",
+          "samples": []
+        },
+        "mercari": {
+          "price": null,
+          "count": 0,
+          "type": "sold",
+          "samples": []
+        },
+        "snkrdunk": {
+          "price": null,
+          "count": 0,
+          "type": "sold",
+          "samples": []
+        }
+      },
+      "reference_average": null,
+      "source_count": 0,
+      "previous_average": null,
+      "price_kind": "unverified",
+      "source_url": null,
+      "price_as_of": null
+    },
+    "extra_006": {
+      "sources": {
+        "x": {
+          "price": null,
+          "count": 0,
+          "type": "buy_offer",
+          "samples": []
+        },
+        "mercari": {
+          "price": null,
+          "count": 0,
+          "type": "sold",
+          "samples": []
+        },
+        "snkrdunk": {
+          "price": null,
+          "count": 0,
+          "type": "sold",
+          "samples": []
+        }
+      },
+      "reference_average": null,
+      "source_count": 0,
+      "previous_average": null,
+      "price_kind": "unverified",
+      "source_url": null,
+      "price_as_of": null
+    },
+    "extra_007": {
+      "sources": {
+        "x": {
+          "price": null,
+          "count": 0,
+          "type": "buy_offer",
+          "samples": []
+        },
+        "mercari": {
+          "price": null,
+          "count": 0,
+          "type": "sold",
+          "samples": []
+        },
+        "snkrdunk": {
+          "price": null,
+          "count": 0,
+          "type": "sold",
+          "samples": []
+        }
+      },
+      "reference_average": null,
+      "source_count": 0,
+      "previous_average": null,
+      "price_kind": "unverified",
+      "source_url": null,
+      "price_as_of": null
+    },
+    "extra_008": {
+      "sources": {
+        "x": {
+          "price": null,
+          "count": 0,
+          "type": "buy_offer",
+          "samples": []
+        },
+        "mercari": {
+          "price": null,
+          "count": 0,
+          "type": "sold",
+          "samples": []
+        },
+        "snkrdunk": {
+          "price": null,
+          "count": 0,
+          "type": "sold",
+          "samples": []
+        }
+      },
+      "reference_average": null,
+      "source_count": 0,
+      "previous_average": null,
+      "price_kind": "unverified",
+      "source_url": null,
+      "price_as_of": null
+    },
+    "extra_009": {
+      "sources": {
+        "x": {
+          "price": null,
+          "count": 0,
+          "type": "buy_offer",
+          "samples": []
+        },
+        "mercari": {
+          "price": null,
+          "count": 0,
+          "type": "sold",
+          "samples": []
+        },
+        "snkrdunk": {
+          "price": null,
+          "count": 0,
+          "type": "sold",
+          "samples": []
+        }
+      },
+      "reference_average": null,
+      "source_count": 0,
+      "previous_average": null,
+      "price_kind": "unverified",
+      "source_url": null,
+      "price_as_of": null
+    },
+    "extra_010": {
+      "sources": {
+        "x": {
+          "price": null,
+          "count": 0,
+          "type": "buy_offer",
+          "samples": []
+        },
+        "mercari": {
+          "price": null,
+          "count": 0,
+          "type": "sold",
+          "samples": []
+        },
+        "snkrdunk": {
+          "price": null,
+          "count": 0,
+          "type": "sold",
+          "samples": []
+        }
+      },
+      "reference_average": null,
+      "source_count": 0,
+      "previous_average": null,
+      "price_kind": "unverified",
+      "source_url": null,
+      "price_as_of": null
+    },
+    "extra_011": {
+      "sources": {
+        "x": {
+          "price": null,
+          "count": 0,
+          "type": "buy_offer",
+          "samples": []
+        },
+        "mercari": {
+          "price": null,
+          "count": 0,
+          "type": "sold",
+          "samples": []
+        },
+        "snkrdunk": {
+          "price": null,
+          "count": 0,
+          "type": "sold",
+          "samples": []
+        }
+      },
+      "reference_average": null,
+      "source_count": 0,
+      "previous_average": null,
+      "price_kind": "unverified",
+      "source_url": null,
+      "price_as_of": null
+    },
+    "extra_012": {
+      "sources": {
+        "x": {
+          "price": null,
+          "count": 0,
+          "type": "buy_offer",
+          "samples": []
+        },
+        "mercari": {
+          "price": null,
+          "count": 0,
+          "type": "sold",
+          "samples": []
+        },
+        "snkrdunk": {
+          "price": null,
+          "count": 0,
+          "type": "sold",
+          "samples": []
+        }
+      },
+      "reference_average": null,
+      "source_count": 0,
+      "previous_average": null,
+      "price_kind": "unverified",
+      "source_url": null,
+      "price_as_of": null
+    },
+    "extra_013": {
+      "sources": {
+        "x": {
+          "price": null,
+          "count": 0,
+          "type": "buy_offer",
+          "samples": []
+        },
+        "mercari": {
+          "price": null,
+          "count": 0,
+          "type": "sold",
+          "samples": []
+        },
+        "snkrdunk": {
+          "price": null,
+          "count": 0,
+          "type": "sold",
+          "samples": []
+        }
+      },
+      "reference_average": null,
+      "source_count": 0,
+      "previous_average": null,
+      "price_kind": "unverified",
+      "source_url": null,
+      "price_as_of": null
+    },
+    "extra_014": {
+      "sources": {
+        "x": {
+          "price": null,
+          "count": 0,
+          "type": "buy_offer",
+          "samples": []
+        },
+        "mercari": {
+          "price": null,
+          "count": 0,
+          "type": "sold",
+          "samples": []
+        },
+        "snkrdunk": {
+          "price": null,
+          "count": 0,
+          "type": "sold",
+          "samples": []
+        }
+      },
+      "reference_average": null,
+      "source_count": 0,
+      "previous_average": null,
+      "price_kind": "unverified",
+      "source_url": null,
+      "price_as_of": null
+    },
+    "extra_015": {
+      "sources": {
+        "x": {
+          "price": null,
+          "count": 0,
+          "type": "buy_offer",
+          "samples": []
+        },
+        "mercari": {
+          "price": null,
+          "count": 0,
+          "type": "sold",
+          "samples": []
+        },
+        "snkrdunk": {
+          "price": null,
+          "count": 0,
+          "type": "sold",
+          "samples": []
+        }
+      },
+      "reference_average": null,
+      "source_count": 0,
+      "previous_average": null,
+      "price_kind": "unverified",
+      "source_url": null,
+      "price_as_of": null
+    },
+    "extra_016": {
+      "sources": {
+        "x": {
+          "price": null,
+          "count": 0,
+          "type": "buy_offer",
+          "samples": []
+        },
+        "mercari": {
+          "price": null,
+          "count": 0,
+          "type": "sold",
+          "samples": []
+        },
+        "snkrdunk": {
+          "price": null,
+          "count": 0,
+          "type": "sold",
+          "samples": []
+        }
+      },
+      "reference_average": null,
+      "source_count": 0,
+      "previous_average": null,
+      "price_kind": "unverified",
+      "source_url": null,
+      "price_as_of": null
+    },
+    "extra_017": {
+      "sources": {
+        "x": {
+          "price": null,
+          "count": 0,
+          "type": "buy_offer",
+          "samples": []
+        },
+        "mercari": {
+          "price": null,
+          "count": 0,
+          "type": "sold",
+          "samples": []
+        },
+        "snkrdunk": {
+          "price": null,
+          "count": 0,
+          "type": "sold",
+          "samples": []
+        }
+      },
+      "reference_average": null,
+      "source_count": 0,
+      "previous_average": null,
+      "price_kind": "unverified",
+      "source_url": null,
+      "price_as_of": null
+    },
+    "extra_018": {
+      "sources": {
+        "x": {
+          "price": null,
+          "count": 0,
+          "type": "buy_offer",
+          "samples": []
+        },
+        "mercari": {
+          "price": null,
+          "count": 0,
+          "type": "sold",
+          "samples": []
+        },
+        "snkrdunk": {
+          "price": null,
+          "count": 0,
+          "type": "sold",
+          "samples": []
+        }
+      },
+      "reference_average": null,
+      "source_count": 0,
+      "previous_average": null,
+      "price_kind": "unverified",
+      "source_url": null,
+      "price_as_of": null
+    },
+    "extra_019": {
+      "sources": {
+        "x": {
+          "price": null,
+          "count": 0,
+          "type": "buy_offer",
+          "samples": []
+        },
+        "mercari": {
+          "price": null,
+          "count": 0,
+          "type": "sold",
+          "samples": []
+        },
+        "snkrdunk": {
+          "price": null,
+          "count": 0,
+          "type": "sold",
+          "samples": []
+        }
+      },
+      "reference_average": null,
+      "source_count": 0,
+      "previous_average": null,
+      "price_kind": "unverified",
+      "source_url": null,
+      "price_as_of": null
+    },
+    "extra_020": {
+      "sources": {
+        "x": {
+          "price": null,
+          "count": 0,
+          "type": "buy_offer",
+          "samples": []
+        },
+        "mercari": {
+          "price": null,
+          "count": 0,
+          "type": "sold",
+          "samples": []
+        },
+        "snkrdunk": {
+          "price": null,
+          "count": 0,
+          "type": "sold",
+          "samples": []
+        }
+      },
+      "reference_average": null,
+      "source_count": 0,
+      "previous_average": null,
+      "price_kind": "unverified",
+      "source_url": null,
+      "price_as_of": null
+    },
+    "extra_021": {
+      "sources": {
+        "x": {
+          "price": null,
+          "count": 0,
+          "type": "buy_offer",
+          "samples": []
+        },
+        "mercari": {
+          "price": null,
+          "count": 0,
+          "type": "sold",
+          "samples": []
+        },
+        "snkrdunk": {
+          "price": null,
+          "count": 0,
+          "type": "sold",
+          "samples": []
+        }
+      },
+      "reference_average": null,
+      "source_count": 0,
+      "previous_average": null,
+      "price_kind": "unverified",
+      "source_url": null,
+      "price_as_of": null
+    },
+    "extra_022": {
+      "sources": {
+        "x": {
+          "price": null,
+          "count": 0,
+          "type": "buy_offer",
+          "samples": []
+        },
+        "mercari": {
+          "price": null,
+          "count": 0,
+          "type": "sold",
+          "samples": []
+        },
+        "snkrdunk": {
+          "price": null,
+          "count": 0,
+          "type": "sold",
+          "samples": []
+        }
+      },
+      "reference_average": null,
+      "source_count": 0,
+      "previous_average": null,
+      "price_kind": "unverified",
+      "source_url": null,
+      "price_as_of": null
+    },
+    "extra_023": {
+      "sources": {
+        "x": {
+          "price": null,
+          "count": 0,
+          "type": "buy_offer",
+          "samples": []
+        },
+        "mercari": {
+          "price": null,
+          "count": 0,
+          "type": "sold",
+          "samples": []
+        },
+        "snkrdunk": {
+          "price": null,
+          "count": 0,
+          "type": "sold",
+          "samples": []
+        }
+      },
+      "reference_average": null,
+      "source_count": 0,
+      "previous_average": null,
+      "price_kind": "unverified",
+      "source_url": null,
+      "price_as_of": null
+    },
+    "extra_024": {
+      "sources": {
+        "x": {
+          "price": null,
+          "count": 0,
+          "type": "buy_offer",
+          "samples": []
+        },
+        "mercari": {
+          "price": null,
+          "count": 0,
+          "type": "sold",
+          "samples": []
+        },
+        "snkrdunk": {
+          "price": null,
+          "count": 0,
+          "type": "sold",
+          "samples": []
+        }
+      },
+      "reference_average": null,
+      "source_count": 0,
+      "previous_average": null,
+      "price_kind": "unverified",
+      "source_url": null,
+      "price_as_of": null
+    },
+    "extra_025": {
+      "sources": {
+        "x": {
+          "price": null,
+          "count": 0,
+          "type": "buy_offer",
+          "samples": []
+        },
+        "mercari": {
+          "price": null,
+          "count": 0,
+          "type": "sold",
+          "samples": []
+        },
+        "snkrdunk": {
+          "price": null,
+          "count": 0,
+          "type": "sold",
+          "samples": []
+        }
+      },
+      "reference_average": null,
+      "source_count": 0,
+      "previous_average": null,
+      "price_kind": "unverified",
+      "source_url": null,
+      "price_as_of": null
+    },
+    "extra_026": {
+      "sources": {
+        "x": {
+          "price": null,
+          "count": 0,
+          "type": "buy_offer",
+          "samples": []
+        },
+        "mercari": {
+          "price": null,
+          "count": 0,
+          "type": "sold",
+          "samples": []
+        },
+        "snkrdunk": {
+          "price": null,
+          "count": 0,
+          "type": "sold",
+          "samples": []
+        }
+      },
+      "reference_average": null,
+      "source_count": 0,
+      "previous_average": null,
+      "price_kind": "unverified",
+      "source_url": null,
+      "price_as_of": null
+    },
+    "extra_027": {
+      "sources": {
+        "x": {
+          "price": null,
+          "count": 0,
+          "type": "buy_offer",
+          "samples": []
+        },
+        "mercari": {
+          "price": null,
+          "count": 0,
+          "type": "sold",
+          "samples": []
+        },
+        "snkrdunk": {
+          "price": null,
+          "count": 0,
+          "type": "sold",
+          "samples": []
+        }
+      },
+      "reference_average": null,
+      "source_count": 0,
+      "previous_average": null,
+      "price_kind": "unverified",
+      "source_url": null,
+      "price_as_of": null
+    },
+    "extra_028": {
+      "sources": {
+        "x": {
+          "price": null,
+          "count": 0,
+          "type": "buy_offer",
+          "samples": []
+        },
+        "mercari": {
+          "price": null,
+          "count": 0,
+          "type": "sold",
+          "samples": []
+        },
+        "snkrdunk": {
+          "price": null,
+          "count": 0,
+          "type": "sold",
+          "samples": []
+        }
+      },
+      "reference_average": null,
+      "source_count": 0,
+      "previous_average": null,
+      "price_kind": "unverified",
+      "source_url": null,
+      "price_as_of": null
+    },
+    "extra_029": {
+      "sources": {
+        "x": {
+          "price": null,
+          "count": 0,
+          "type": "buy_offer",
+          "samples": []
+        },
+        "mercari": {
+          "price": null,
+          "count": 0,
+          "type": "sold",
+          "samples": []
+        },
+        "snkrdunk": {
+          "price": null,
+          "count": 0,
+          "type": "sold",
+          "samples": []
+        }
+      },
+      "reference_average": null,
+      "source_count": 0,
+      "previous_average": null,
+      "price_kind": "unverified",
+      "source_url": null,
+      "price_as_of": null
+    },
+    "extra_030": {
+      "sources": {
+        "x": {
+          "price": null,
+          "count": 0,
+          "type": "buy_offer",
+          "samples": []
+        },
+        "mercari": {
+          "price": null,
+          "count": 0,
+          "type": "sold",
+          "samples": []
+        },
+        "snkrdunk": {
+          "price": null,
+          "count": 0,
+          "type": "sold",
+          "samples": []
+        }
+      },
+      "reference_average": null,
+      "source_count": 0,
+      "previous_average": null,
+      "price_kind": "unverified",
+      "source_url": null,
+      "price_as_of": null
+    },
+    "extra_031": {
+      "sources": {
+        "x": {
+          "price": null,
+          "count": 0,
+          "type": "buy_offer",
+          "samples": []
+        },
+        "mercari": {
+          "price": null,
+          "count": 0,
+          "type": "sold",
+          "samples": []
+        },
+        "snkrdunk": {
+          "price": null,
+          "count": 0,
+          "type": "sold",
+          "samples": []
+        }
+      },
+      "reference_average": null,
+      "source_count": 0,
+      "previous_average": null,
+      "price_kind": "unverified",
+      "source_url": null,
+      "price_as_of": null
+    },
+    "extra_032": {
+      "sources": {
+        "x": {
+          "price": null,
+          "count": 0,
+          "type": "buy_offer",
+          "samples": []
+        },
+        "mercari": {
+          "price": null,
+          "count": 0,
+          "type": "sold",
+          "samples": []
+        },
+        "snkrdunk": {
+          "price": null,
+          "count": 0,
+          "type": "sold",
+          "samples": []
+        }
+      },
+      "reference_average": null,
+      "source_count": 0,
+      "previous_average": null,
+      "price_kind": "unverified",
+      "source_url": null,
+      "price_as_of": null
+    },
+    "extra_033": {
+      "sources": {
+        "x": {
+          "price": null,
+          "count": 0,
+          "type": "buy_offer",
+          "samples": []
+        },
+        "mercari": {
+          "price": null,
+          "count": 0,
+          "type": "sold",
+          "samples": []
+        },
+        "snkrdunk": {
+          "price": null,
+          "count": 0,
+          "type": "sold",
+          "samples": []
+        }
+      },
+      "reference_average": null,
+      "source_count": 0,
+      "previous_average": null,
+      "price_kind": "unverified",
+      "source_url": null,
+      "price_as_of": null
+    },
+    "extra_034": {
+      "sources": {
+        "x": {
+          "price": null,
+          "count": 0,
+          "type": "buy_offer",
+          "samples": []
+        },
+        "mercari": {
+          "price": null,
+          "count": 0,
+          "type": "sold",
+          "samples": []
+        },
+        "snkrdunk": {
+          "price": null,
+          "count": 0,
+          "type": "sold",
+          "samples": []
+        }
+      },
+      "reference_average": null,
+      "source_count": 0,
+      "previous_average": null,
+      "price_kind": "unverified",
+      "source_url": null,
+      "price_as_of": null
+    },
+    "extra_035": {
+      "sources": {
+        "x": {
+          "price": null,
+          "count": 0,
+          "type": "buy_offer",
+          "samples": []
+        },
+        "mercari": {
+          "price": null,
+          "count": 0,
+          "type": "sold",
+          "samples": []
+        },
+        "snkrdunk": {
+          "price": null,
+          "count": 0,
+          "type": "sold",
+          "samples": []
+        }
+      },
+      "reference_average": null,
+      "source_count": 0,
+      "previous_average": null,
+      "price_kind": "unverified",
+      "source_url": null,
+      "price_as_of": null
+    },
+    "extra_036": {
+      "sources": {
+        "x": {
+          "price": null,
+          "count": 0,
+          "type": "buy_offer",
+          "samples": []
+        },
+        "mercari": {
+          "price": null,
+          "count": 0,
+          "type": "sold",
+          "samples": []
+        },
+        "snkrdunk": {
+          "price": null,
+          "count": 0,
+          "type": "sold",
+          "samples": []
+        }
+      },
+      "reference_average": null,
+      "source_count": 0,
+      "previous_average": null,
+      "price_kind": "unverified",
+      "source_url": null,
+      "price_as_of": null
+    },
+    "extra_037": {
+      "sources": {
+        "x": {
+          "price": null,
+          "count": 0,
+          "type": "buy_offer",
+          "samples": []
+        },
+        "mercari": {
+          "price": null,
+          "count": 0,
+          "type": "sold",
+          "samples": []
+        },
+        "snkrdunk": {
+          "price": null,
+          "count": 0,
+          "type": "sold",
+          "samples": []
+        }
+      },
+      "reference_average": null,
+      "source_count": 0,
+      "previous_average": null,
+      "price_kind": "unverified",
+      "source_url": null,
+      "price_as_of": null
+    },
+    "extra_038": {
+      "sources": {
+        "x": {
+          "price": null,
+          "count": 0,
+          "type": "buy_offer",
+          "samples": []
+        },
+        "mercari": {
+          "price": null,
+          "count": 0,
+          "type": "sold",
+          "samples": []
+        },
+        "snkrdunk": {
+          "price": null,
+          "count": 0,
+          "type": "sold",
+          "samples": []
+        }
+      },
+      "reference_average": null,
+      "source_count": 0,
+      "previous_average": null,
+      "price_kind": "unverified",
+      "source_url": null,
+      "price_as_of": null
+    },
+    "extra_039": {
+      "sources": {
+        "x": {
+          "price": null,
+          "count": 0,
+          "type": "buy_offer",
+          "samples": []
+        },
+        "mercari": {
+          "price": null,
+          "count": 0,
+          "type": "sold",
+          "samples": []
+        },
+        "snkrdunk": {
+          "price": null,
+          "count": 0,
+          "type": "sold",
+          "samples": []
+        }
+      },
+      "reference_average": null,
+      "source_count": 0,
+      "previous_average": null,
+      "price_kind": "unverified",
+      "source_url": null,
+      "price_as_of": null
+    },
+    "extra_040": {
+      "sources": {
+        "x": {
+          "price": null,
+          "count": 0,
+          "type": "buy_offer",
+          "samples": []
+        },
+        "mercari": {
+          "price": null,
+          "count": 0,
+          "type": "sold",
+          "samples": []
+        },
+        "snkrdunk": {
+          "price": null,
+          "count": 0,
+          "type": "sold",
+          "samples": []
+        }
+      },
+      "reference_average": null,
+      "source_count": 0,
+      "previous_average": null,
+      "price_kind": "unverified",
+      "source_url": null,
+      "price_as_of": null
+    },
+    "extra_041": {
+      "sources": {
+        "x": {
+          "price": null,
+          "count": 0,
+          "type": "buy_offer",
+          "samples": []
+        },
+        "mercari": {
+          "price": null,
+          "count": 0,
+          "type": "sold",
+          "samples": []
+        },
+        "snkrdunk": {
+          "price": null,
+          "count": 0,
+          "type": "sold",
+          "samples": []
+        }
+      },
+      "reference_average": null,
+      "source_count": 0,
+      "previous_average": null,
+      "price_kind": "unverified",
+      "source_url": null,
+      "price_as_of": null
+    },
+    "extra_042": {
+      "sources": {
+        "x": {
+          "price": null,
+          "count": 0,
+          "type": "buy_offer",
+          "samples": []
+        },
+        "mercari": {
+          "price": null,
+          "count": 0,
+          "type": "sold",
+          "samples": []
+        },
+        "snkrdunk": {
+          "price": null,
+          "count": 0,
+          "type": "sold",
+          "samples": []
+        }
+      },
+      "reference_average": null,
+      "source_count": 0,
+      "previous_average": null,
+      "price_kind": "unverified",
+      "source_url": null,
+      "price_as_of": null
     }
   },
   "warnings": [
-    "X API: token or seller accounts not configured"
+    "手動作成の2026-10-31時点スナップショット。毎日自動更新ではありません。",
+    "reference_average には互換性のため最高買取価格を格納。3サイト平均ではありません。",
+    "追加商品42件は買取価格未確認。10万円未満との判定も未実施。資産評価には含めません。"
   ],
-  "method": "equal-weight mean of available source medians; X buy offers versus marketplace sold prices are different market types"
+  "method": "MANUAL SNAPSHOT: maximum advertised buyback quote, sealed with shrink wrap. NOT average.; added deck/card/set catalog entries have UNKNOWN buyback value; no synthetic prices."
 }

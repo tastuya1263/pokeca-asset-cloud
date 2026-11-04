@@ -1,5 +1,716 @@
 [
- {"id":"pokemon151","name":"ポケモンカード151","aliases":["151"]},
- {"id":"rocket_glory","name":"ロケット団の栄光","aliases":[]},
- {"id":"inferno_x","name":"インフェルノX","aliases":[]}
+  {
+    "id": "box_001",
+    "name": "25th ANNIVERSARY COLLECTION",
+    "aliases": [],
+    "category": "拡張パック・BOX"
+  },
+  {
+    "id": "box_002",
+    "name": "30th CELEBRATION",
+    "aliases": [],
+    "category": "拡張パック・BOX"
+  },
+  {
+    "id": "box_003",
+    "name": "30th CELEBRATION FUTURISTIC BOX",
+    "aliases": [],
+    "category": "その他セット"
+  },
+  {
+    "id": "box_004",
+    "name": "30th CELEBRATIONデッキセット エーフィ・ブラッキー",
+    "aliases": [],
+    "category": "構築デッキ"
+  },
+  {
+    "id": "box_005",
+    "name": "MEGAドリームex",
+    "aliases": [],
+    "category": "拡張パック・BOX"
+  },
+  {
+    "id": "box_006",
+    "name": "Pokemon GO",
+    "aliases": [],
+    "category": "拡張パック・BOX"
+  },
+  {
+    "id": "box_007",
+    "name": "VMAXクライマックス",
+    "aliases": [],
+    "category": "拡張パック・BOX"
+  },
+  {
+    "id": "box_008",
+    "name": "VMAXライジング",
+    "aliases": [],
+    "category": "拡張パック・BOX"
+  },
+  {
+    "id": "box_009",
+    "name": "VSTARユニバース",
+    "aliases": [],
+    "category": "拡張パック・BOX"
+  },
+  {
+    "id": "box_010",
+    "name": "アビスアイ",
+    "aliases": [],
+    "category": "拡張パック・BOX"
+  },
+  {
+    "id": "inferno_x",
+    "name": "インフェルノX",
+    "aliases": [],
+    "category": "拡張パック・BOX"
+  },
+  {
+    "id": "box_012",
+    "name": "クリムゾンヘイズ",
+    "aliases": [],
+    "category": "拡張パック・BOX"
+  },
+  {
+    "id": "box_013",
+    "name": "クレイバースト",
+    "aliases": [],
+    "category": "拡張パック・BOX"
+  },
+  {
+    "id": "box_014",
+    "name": "サイバージャッジ",
+    "aliases": [],
+    "category": "拡張パック・BOX"
+  },
+  {
+    "id": "box_015",
+    "name": "シールド",
+    "aliases": [],
+    "category": "拡張パック・BOX"
+  },
+  {
+    "id": "box_016",
+    "name": "シャイニースターV",
+    "aliases": [],
+    "category": "拡張パック・BOX"
+  },
+  {
+    "id": "box_017",
+    "name": "シャイニートレジャーex",
+    "aliases": [],
+    "category": "拡張パック・BOX"
+  },
+  {
+    "id": "box_018",
+    "name": "スカーレットex",
+    "aliases": [],
+    "category": "拡張パック・BOX"
+  },
+  {
+    "id": "box_019",
+    "name": "スタートデッキ100　バトルコレクション",
+    "aliases": [],
+    "category": "構築デッキ"
+  },
+  {
+    "id": "box_020",
+    "name": "スターバース",
+    "aliases": [],
+    "category": "拡張パック・BOX"
+  },
+  {
+    "id": "box_021",
+    "name": "ステラミラクル",
+    "aliases": [],
+    "category": "拡張パック・BOX"
+  },
+  {
+    "id": "box_022",
+    "name": "ストームエメラルダ",
+    "aliases": [],
+    "category": "拡張パック・BOX"
+  },
+  {
+    "id": "box_023",
+    "name": "スノーハザード",
+    "aliases": [],
+    "category": "拡張パック・BOX"
+  },
+  {
+    "id": "box_024",
+    "name": "スペースジャグラー",
+    "aliases": [],
+    "category": "拡張パック・BOX"
+  },
+  {
+    "id": "box_025",
+    "name": "ソード",
+    "aliases": [],
+    "category": "拡張パック・BOX"
+  },
+  {
+    "id": "box_026",
+    "name": "ダークファンタズマ",
+    "aliases": [],
+    "category": "拡張パック・BOX"
+  },
+  {
+    "id": "box_027",
+    "name": "タイムゲイザー",
+    "aliases": [],
+    "category": "拡張パック・BOX"
+  },
+  {
+    "id": "box_028",
+    "name": "テラスタルフェスex",
+    "aliases": [],
+    "category": "拡張パック・BOX"
+  },
+  {
+    "id": "box_029",
+    "name": "トリプレットビート",
+    "aliases": [],
+    "category": "拡張パック・BOX"
+  },
+  {
+    "id": "box_030",
+    "name": "ナイトワンダラー",
+    "aliases": [],
+    "category": "拡張パック・BOX"
+  },
+  {
+    "id": "box_031",
+    "name": "ニンジャスピナー",
+    "aliases": [],
+    "category": "拡張パック・BOX"
+  },
+  {
+    "id": "box_032",
+    "name": "バイオレットex",
+    "aliases": [],
+    "category": "拡張パック・BOX"
+  },
+  {
+    "id": "box_033",
+    "name": "バトルパートナーズ",
+    "aliases": [],
+    "category": "拡張パック・BOX"
+  },
+  {
+    "id": "box_034",
+    "name": "バトルリージョン",
+    "aliases": [],
+    "category": "拡張パック・BOX"
+  },
+  {
+    "id": "box_035",
+    "name": "パラダイムトリガー",
+    "aliases": [],
+    "category": "拡張パック・BOX"
+  },
+  {
+    "id": "box_036",
+    "name": "フュージョンアーツ",
+    "aliases": [],
+    "category": "拡張パック・BOX"
+  },
+  {
+    "id": "box_037",
+    "name": "ブラックボルト",
+    "aliases": [],
+    "category": "拡張パック・BOX"
+  },
+  {
+    "id": "box_038",
+    "name": "ブラックボルトDX",
+    "aliases": [],
+    "category": "拡張パック・BOX"
+  },
+  {
+    "id": "pokemon151",
+    "name": "ポケモンカード151",
+    "aliases": [],
+    "category": "拡張パック・BOX"
+  },
+  {
+    "id": "box_040",
+    "name": "ポケモンセンタートウホク",
+    "aliases": [],
+    "category": "その他セット"
+  },
+  {
+    "id": "box_041",
+    "name": "ポケモンセンターヒロシマ",
+    "aliases": [],
+    "category": "その他セット"
+  },
+  {
+    "id": "box_042",
+    "name": "ポケモンセンターフクオカ",
+    "aliases": [],
+    "category": "その他セット"
+  },
+  {
+    "id": "box_043",
+    "name": "ホワイトフレア",
+    "aliases": [],
+    "category": "拡張パック・BOX"
+  },
+  {
+    "id": "box_044",
+    "name": "ホワイトフレアDX",
+    "aliases": [],
+    "category": "拡張パック・BOX"
+  },
+  {
+    "id": "box_045",
+    "name": "ムゲンゾーン",
+    "aliases": [],
+    "category": "拡張パック・BOX"
+  },
+  {
+    "id": "box_046",
+    "name": "ムニキスゼロ",
+    "aliases": [],
+    "category": "拡張パック・BOX"
+  },
+  {
+    "id": "box_047",
+    "name": "メガシンフォニア",
+    "aliases": [],
+    "category": "拡張パック・BOX"
+  },
+  {
+    "id": "box_048",
+    "name": "メガブレイブ",
+    "aliases": [],
+    "category": "拡張パック・BOX"
+  },
+  {
+    "id": "box_049",
+    "name": "レイジングサーフ",
+    "aliases": [],
+    "category": "拡張パック・BOX"
+  },
+  {
+    "id": "rocket_glory",
+    "name": "ロケット団の栄光",
+    "aliases": [],
+    "category": "拡張パック・BOX"
+  },
+  {
+    "id": "box_051",
+    "name": "ロストアビス",
+    "aliases": [],
+    "category": "拡張パック・BOX"
+  },
+  {
+    "id": "box_052",
+    "name": "ワイルドフォース",
+    "aliases": [],
+    "category": "拡張パック・BOX"
+  },
+  {
+    "id": "box_053",
+    "name": "一撃マスター",
+    "aliases": [],
+    "category": "拡張パック・BOX"
+  },
+  {
+    "id": "box_054",
+    "name": "楽園ドラゴーナ",
+    "aliases": [],
+    "category": "拡張パック・BOX"
+  },
+  {
+    "id": "box_055",
+    "name": "仰天のボルテッカー",
+    "aliases": [],
+    "category": "拡張パック・BOX"
+  },
+  {
+    "id": "box_056",
+    "name": "古代の咆哮",
+    "aliases": [],
+    "category": "拡張パック・BOX"
+  },
+  {
+    "id": "box_057",
+    "name": "黒炎の支配者",
+    "aliases": [],
+    "category": "拡張パック・BOX"
+  },
+  {
+    "id": "box_058",
+    "name": "漆黒のガイスト",
+    "aliases": [],
+    "category": "拡張パック・BOX"
+  },
+  {
+    "id": "box_059",
+    "name": "双璧のファイター",
+    "aliases": [],
+    "category": "拡張パック・BOX"
+  },
+  {
+    "id": "box_060",
+    "name": "超電ブレイカー",
+    "aliases": [],
+    "category": "拡張パック・BOX"
+  },
+  {
+    "id": "box_061",
+    "name": "伝説の鼓動",
+    "aliases": [],
+    "category": "拡張パック・BOX"
+  },
+  {
+    "id": "box_062",
+    "name": "熱風のアリーナ",
+    "aliases": [],
+    "category": "拡張パック・BOX"
+  },
+  {
+    "id": "box_063",
+    "name": "白銀のランス",
+    "aliases": [],
+    "category": "拡張パック・BOX"
+  },
+  {
+    "id": "box_064",
+    "name": "白熱のアルカナ",
+    "aliases": [],
+    "category": "拡張パック・BOX"
+  },
+  {
+    "id": "box_065",
+    "name": "爆炎ウォーカー",
+    "aliases": [],
+    "category": "拡張パック・BOX"
+  },
+  {
+    "id": "box_066",
+    "name": "反逆クラッシュ",
+    "aliases": [],
+    "category": "拡張パック・BOX"
+  },
+  {
+    "id": "box_067",
+    "name": "変幻の仮面",
+    "aliases": [],
+    "category": "拡張パック・BOX"
+  },
+  {
+    "id": "box_068",
+    "name": "摩天パーフェクト",
+    "aliases": [],
+    "category": "拡張パック・BOX"
+  },
+  {
+    "id": "box_069",
+    "name": "未来の一閃",
+    "aliases": [],
+    "category": "拡張パック・BOX"
+  },
+  {
+    "id": "box_070",
+    "name": "連撃マスター",
+    "aliases": [],
+    "category": "拡張パック・BOX"
+  },
+  {
+    "id": "extra_001",
+    "name": "30th CELEBRATION カードセット フシギダネ・ヒトカゲ・ゼニガメ",
+    "aliases": [],
+    "category": "カードセット",
+    "price_status": "未確認（10万円未満かも未判定）"
+  },
+  {
+    "id": "extra_002",
+    "name": "スターターセットex イーブイex",
+    "aliases": [],
+    "category": "構築デッキ",
+    "price_status": "未確認（10万円未満かも未判定）"
+  },
+  {
+    "id": "extra_003",
+    "name": "スターターセットex ゾロア＆ゾロアークex",
+    "aliases": [],
+    "category": "構築デッキ",
+    "price_status": "未確認（10万円未満かも未判定）"
+  },
+  {
+    "id": "extra_004",
+    "name": "スターターセットex ニャオハ＆マスカーニャex",
+    "aliases": [],
+    "category": "構築デッキ",
+    "price_status": "未確認（10万円未満かも未判定）"
+  },
+  {
+    "id": "extra_005",
+    "name": "スターターセットMEGA メガゲンガーex",
+    "aliases": [],
+    "category": "構築デッキ",
+    "price_status": "未確認（10万円未満かも未判定）"
+  },
+  {
+    "id": "extra_006",
+    "name": "スターターセットMEGA メガディアンシーex",
+    "aliases": [],
+    "category": "構築デッキ",
+    "price_status": "未確認（10万円未満かも未判定）"
+  },
+  {
+    "id": "extra_007",
+    "name": "スターターセットex マリィのモルペコ＆オーロンゲex",
+    "aliases": [],
+    "category": "構築デッキ",
+    "price_status": "未確認（10万円未満かも未判定）"
+  },
+  {
+    "id": "extra_008",
+    "name": "スターターセットex ダイゴのダンバル＆メタグロスex",
+    "aliases": [],
+    "category": "構築デッキ",
+    "price_status": "未確認（10万円未満かも未判定）"
+  },
+  {
+    "id": "extra_009",
+    "name": "スタートデッキ Generations スペシャルバトルセット",
+    "aliases": [],
+    "category": "構築デッキ",
+    "price_status": "未確認（10万円未満かも未判定）"
+  },
+  {
+    "id": "extra_010",
+    "name": "スタートデッキ Generations ピカチュウex・カビゴンex",
+    "aliases": [],
+    "category": "構築デッキ",
+    "price_status": "未確認（10万円未満かも未判定）"
+  },
+  {
+    "id": "extra_011",
+    "name": "スタートデッキ Generations ルギアex・バンギラスex",
+    "aliases": [],
+    "category": "構築デッキ",
+    "price_status": "未確認（10万円未満かも未判定）"
+  },
+  {
+    "id": "extra_012",
+    "name": "スタートデッキ Generations ザシアンex・マホイップex",
+    "aliases": [],
+    "category": "構築デッキ",
+    "price_status": "未確認（10万円未満かも未判定）"
+  },
+  {
+    "id": "extra_013",
+    "name": "スタートデッキ Generations コライドンex・パルデアドオーex",
+    "aliases": [],
+    "category": "構築デッキ",
+    "price_status": "未確認（10万円未満かも未判定）"
+  },
+  {
+    "id": "extra_014",
+    "name": "スタートデッキ Generations カイオーガex・バシャーモex",
+    "aliases": [],
+    "category": "構築デッキ",
+    "price_status": "未確認（10万円未満かも未判定）"
+  },
+  {
+    "id": "extra_015",
+    "name": "スペシャルデッキセットex フシギバナ・リザードン・カメックス",
+    "aliases": [],
+    "category": "構築デッキ",
+    "price_status": "未確認（10万円未満かも未判定）"
+  },
+  {
+    "id": "extra_016",
+    "name": "スターターセット テラスタル ミュウツーex",
+    "aliases": [],
+    "category": "構築デッキ",
+    "price_status": "未確認（10万円未満かも未判定）"
+  },
+  {
+    "id": "extra_017",
+    "name": "スターターセット テラスタル ラウドボーンex",
+    "aliases": [],
+    "category": "構築デッキ",
+    "price_status": "未確認（10万円未満かも未判定）"
+  },
+  {
+    "id": "extra_018",
+    "name": "スターターセット テラスタイプ：ステラ ニンフィアex",
+    "aliases": [],
+    "category": "構築デッキ",
+    "price_status": "未確認（10万円未満かも未判定）"
+  },
+  {
+    "id": "extra_019",
+    "name": "スターターセット テラスタイプ：ステラ ソウブレイズex",
+    "aliases": [],
+    "category": "構築デッキ",
+    "price_status": "未確認（10万円未満かも未判定）"
+  },
+  {
+    "id": "extra_020",
+    "name": "ポケモンワールドチャンピオンシップス2023横浜 記念デッキ「ピカチュウ」",
+    "aliases": [],
+    "category": "構築デッキ",
+    "price_status": "未確認（10万円未満かも未判定）"
+  },
+  {
+    "id": "extra_021",
+    "name": "バトルマスターデッキ テラスタル リザードンex",
+    "aliases": [],
+    "category": "構築デッキ",
+    "price_status": "未確認（10万円未満かも未判定）"
+  },
+  {
+    "id": "extra_022",
+    "name": "バトルマスターデッキ パオジアンex",
+    "aliases": [],
+    "category": "構築デッキ",
+    "price_status": "未確認（10万円未満かも未判定）"
+  },
+  {
+    "id": "extra_023",
+    "name": "スターターデッキ＆ビルドセット 古代のコライドンex",
+    "aliases": [],
+    "category": "構築デッキ",
+    "price_status": "未確認（10万円未満かも未判定）"
+  },
+  {
+    "id": "extra_024",
+    "name": "スターターデッキ＆ビルドセット 未来のミライドンex",
+    "aliases": [],
+    "category": "構築デッキ",
+    "price_status": "未確認（10万円未満かも未判定）"
+  },
+  {
+    "id": "extra_025",
+    "name": "exスタートデッキ 草 ジュナイパー",
+    "aliases": [],
+    "category": "構築デッキ",
+    "price_status": "未確認（10万円未満かも未判定）"
+  },
+  {
+    "id": "extra_026",
+    "name": "exスタートデッキ 炎 ビクティニ",
+    "aliases": [],
+    "category": "構築デッキ",
+    "price_status": "未確認（10万円未満かも未判定）"
+  },
+  {
+    "id": "extra_027",
+    "name": "exスタートデッキ 水 ゲッコウガ",
+    "aliases": [],
+    "category": "構築デッキ",
+    "price_status": "未確認（10万円未満かも未判定）"
+  },
+  {
+    "id": "extra_028",
+    "name": "exスタートデッキ 雷 ミライドン",
+    "aliases": [],
+    "category": "構築デッキ",
+    "price_status": "未確認（10万円未満かも未判定）"
+  },
+  {
+    "id": "extra_029",
+    "name": "exスタートデッキ 超 ピクシー",
+    "aliases": [],
+    "category": "構築デッキ",
+    "price_status": "未確認（10万円未満かも未判定）"
+  },
+  {
+    "id": "extra_030",
+    "name": "exスタートデッキ 闘 コライドン",
+    "aliases": [],
+    "category": "構築デッキ",
+    "price_status": "未確認（10万円未満かも未判定）"
+  },
+  {
+    "id": "extra_031",
+    "name": "exスタートデッキ 悪 ヘルガー",
+    "aliases": [],
+    "category": "構築デッキ",
+    "price_status": "未確認（10万円未満かも未判定）"
+  },
+  {
+    "id": "extra_032",
+    "name": "exスタートデッキ 鋼 メルメタル",
+    "aliases": [],
+    "category": "構築デッキ",
+    "price_status": "未確認（10万円未満かも未判定）"
+  },
+  {
+    "id": "extra_033",
+    "name": "デッキビルドBOX バトルパートナーズ",
+    "aliases": [],
+    "category": "その他セット",
+    "price_status": "未確認（10万円未満かも未判定）"
+  },
+  {
+    "id": "extra_034",
+    "name": "デッキビルドBOX ステラミラクル",
+    "aliases": [],
+    "category": "その他セット",
+    "price_status": "未確認（10万円未満かも未判定）"
+  },
+  {
+    "id": "extra_035",
+    "name": "デッキビルドBOX 黒炎の支配者",
+    "aliases": [],
+    "category": "その他セット",
+    "price_status": "未確認（10万円未満かも未判定）"
+  },
+  {
+    "id": "extra_036",
+    "name": "プレミアムトレーナーボックス メガバトル",
+    "aliases": [],
+    "category": "その他セット",
+    "price_status": "未確認（10万円未満かも未判定）"
+  },
+  {
+    "id": "extra_037",
+    "name": "プレミアムトレーナーボックスex",
+    "aliases": [],
+    "category": "その他セット",
+    "price_status": "未確認（10万円未満かも未判定）"
+  },
+  {
+    "id": "extra_038",
+    "name": "ポケモンカード151 カードファイルセット モンスターボール",
+    "aliases": [],
+    "category": "その他セット",
+    "price_status": "未確認（10万円未満かも未判定）"
+  },
+  {
+    "id": "extra_039",
+    "name": "ポケモンカード151 カードファイルセット フシギバナ・リザードン・カメックス",
+    "aliases": [],
+    "category": "その他セット",
+    "price_status": "未確認（10万円未満かも未判定）"
+  },
+  {
+    "id": "extra_040",
+    "name": "スペシャルジャンボカードセット オーガポン",
+    "aliases": [],
+    "category": "その他セット",
+    "price_status": "未確認（10万円未満かも未判定）"
+  },
+  {
+    "id": "extra_041",
+    "name": "exスペシャルセット",
+    "aliases": [],
+    "category": "その他セット",
+    "price_status": "未確認（10万円未満かも未判定）"
+  },
+  {
+    "id": "extra_042",
+    "name": "スノーハザード＆クレイバースト ポケモンセンター・ジムセット",
+    "aliases": [],
+    "category": "その他セット",
+    "price_status": "未確認（10万円未満かも未判定）"
+  }
 ]
